@@ -1,5 +1,5 @@
 # Hide-and-show-items-in-a-mac-desktop
-Two apps that can hide and show all items and folders in your desktop on your mac.
+Two apps that can hide and show all items and folders in your mac desktop.
 
 You probably noticed the Harry Potter reference, and it works exactly the same : 
    -> add those two scripts in your mac dock
